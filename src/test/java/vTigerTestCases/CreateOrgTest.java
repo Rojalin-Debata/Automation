@@ -74,6 +74,7 @@ public class CreateOrgTest {
 		
 		HomePage Home = new HomePage(driver);
 		Home.logOutOfApp(driver);
+		System.out.println("Hi This is the change made by Team Lead");
 		
 	}
 
